@@ -36,7 +36,7 @@ let arr = [
   function concatenateArray() {
     const newData = [{id:5,name:"Jeevana",age:"20",profession:"designer"},
                     {id:5,name:"Meghana",age:"22",profession:"developer"},
-                    {id:5,name:"jeevana",age:"20",profession:"tester"}];
+                    {id:5,name:"karthik",age:"24",profession:"tester"}];
     const combinedData = arr.concat(newData);
     console.log(combinedData);
   }
